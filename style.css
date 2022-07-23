@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+.main-container {
+    background-color: burlywood;
+}
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
