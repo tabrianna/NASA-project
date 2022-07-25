@@ -1,9 +1,54 @@
-body {
+.body {
     margin: 0;
-}
-.main-container {
-    background-color: burlywood;
-}
-h1 {
-    font-family: 'Roboto Condensed', sans-serif;
-}
+    display: flex;
+    align-items" center;
+    height: 100vh;
+  }
+  
+  html {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  .main-container {
+    width: 850px;
+    height: 450px;
+    background-image: url(nasa-bg.jpg);
+    padding: 50%;
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    color: white;
+    font-size: x-large;
+  }
+  .bottom-container {
+    height: 324px;
+    width: 850px;
+    padding: 50%;
+    background-color: #bbbdbb;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .SM-container {
+    height: 324px;
+    width: 270px;
+    align-items: center;
+   
+    
+  }
+  .IO-container {
+    height: 324px;
+    width: 270px;
+    align
+    display: flex;
+    
+  }
+  
+  .CU-container {
+    height: 324px;
+    width: 270px;
+  }
